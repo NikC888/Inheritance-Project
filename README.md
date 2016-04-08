@@ -1,6 +1,6 @@
-#### BasicStructure
+#### Inheritance Project
 
-### Date
+### April 7, 2016
 
 Basic structure for future projects
 
